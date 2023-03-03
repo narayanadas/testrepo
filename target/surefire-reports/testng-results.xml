@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34812" started-at="2023-03-03T16:18:01 IST" finished-at="2023-03-03T16:18:36 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34812" started-at="2023-03-03T16:18:01 IST" finished-at="2023-03-03T16:18:36 IST">
+      <class name="com.automaitontalks.TestCase1">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.automaitontalks.TestCase1@2f943d71]" name="launchBrowser" is-config="true" duration-ms="11762" started-at="2023-03-03T16:18:01 IST" finished-at="2023-03-03T16:18:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.automaitontalks.TestCase1@2f943d71]" name="test1" duration-ms="11132" started-at="2023-03-03T16:18:13 IST" finished-at="2023-03-03T16:18:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automaitontalks.TestCase1@2f943d71]" name="tearDown" is-config="true" duration-ms="275" started-at="2023-03-03T16:18:24 IST" finished-at="2023-03-03T16:18:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.automaitontalks.TestCase1@2f943d71]" name="launchBrowser" is-config="true" duration-ms="1749" started-at="2023-03-03T16:18:24 IST" finished-at="2023-03-03T16:18:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.automaitontalks.TestCase1@2f943d71]" name="test2" duration-ms="4000" started-at="2023-03-03T16:18:26 IST" finished-at="2023-03-03T16:18:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automaitontalks.TestCase1@2f943d71]" name="tearDown" is-config="true" duration-ms="142" started-at="2023-03-03T16:18:30 IST" finished-at="2023-03-03T16:18:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.automaitontalks.TestCase1@2f943d71]" name="launchBrowser" is-config="true" duration-ms="1566" started-at="2023-03-03T16:18:30 IST" finished-at="2023-03-03T16:18:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.automaitontalks.TestCase1@2f943d71]" name="test3" duration-ms="4002" started-at="2023-03-03T16:18:31 IST" finished-at="2023-03-03T16:18:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automaitontalks.TestCase1@2f943d71]" name="tearDown" is-config="true" duration-ms="123" started-at="2023-03-03T16:18:35 IST" finished-at="2023-03-03T16:18:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automaitontalks.TestCase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
